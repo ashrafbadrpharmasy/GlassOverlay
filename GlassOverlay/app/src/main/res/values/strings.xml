@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Glass Overlay</string>
+    <string name="a11y_desc">Shows the glass volume HUD and the dynamic island. It only draws overlays and reads volume key presses.</string>
+</resources>
